@@ -7,7 +7,7 @@ int main ()
     cin>>num;
     if (num <= 1)
     {
-        cout<<cout<<"Not a prime number"<<endl;
+        cout<<"Not a prime number"<<endl;
     }
     for(int i=2; i<=num/2; i++)
     {
