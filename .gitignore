@@ -37,3 +37,5 @@
 # Unignore all with extensions 
 # binary executables
 !*.*
+!/.gitignore
+!/.gitattributes
