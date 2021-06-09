@@ -1,3 +1,6 @@
+# Ignore all
+*
+
 # Unignore all with extensions 
 # binary executables
 !*.*
