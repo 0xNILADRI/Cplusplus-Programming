@@ -7,6 +7,9 @@
 !/.gitignore
 !/.gitattributes
 
+# Unignore all dirs
+!*/
+
 # VS Code 
 .vscode
 .DS_Store
