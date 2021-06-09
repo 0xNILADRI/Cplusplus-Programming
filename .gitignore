@@ -1,6 +1,10 @@
 # Ignore all
 *
 
+# VS Code 
+.vscode
+.DS_Store
+
 # Unignore all with extensions 
 # binary executables
 !*.*
@@ -9,7 +13,3 @@
 
 # Unignore all dirs
 !*/
-
-# VS Code 
-.vscode
-.DS_Store
