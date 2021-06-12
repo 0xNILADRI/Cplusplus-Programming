@@ -28,7 +28,7 @@ Created by [Abdul Bari](https://www.udemy.com/course/cpp-deep-dive/#instructor-1
 - [Strings](https://github.com/afkniladri/Cplusplus-Programming/tree/main/6.String)
 - [Functions](https://github.com/afkniladri/Cplusplus-Programming/tree/main/7.Functions)
 - [Introduction to OOPS](https://github.com/afkniladri/Cplusplus-Programming/tree/main/8.Inroduction%20to%20OOPS)
-- [Operator Overloading](#configuration)
+- [Operator Overloading](https://github.com/afkniladri/Cplusplus-Programming/tree/main/9.Operator%20Overloading)
 - [Inheritance](#current-status)
 - [Base Class Pointer Diverted Class Object](#dsdt-ssdt)
 - [Polymorphism](#credits)
