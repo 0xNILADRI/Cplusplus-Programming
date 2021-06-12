@@ -5,6 +5,9 @@
 .vscode
 .DS_Store
 
+# ignore .json files
+*.json
+
 # Unignore all with extensions 
 # binary executables
 !*.*
