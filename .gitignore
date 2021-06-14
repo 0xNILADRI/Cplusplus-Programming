@@ -1,13 +1,12 @@
-# Ignore all
-*
-
 # VS Code 
 .vscode
-.vscode/
 .DS_Store
 
 # ignore .json files
 *.json
+
+# Ignore all
+*
 
 # Unignore all with extensions 
 # binary executables
