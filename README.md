@@ -30,7 +30,7 @@ Created by [Abdul Bari](https://www.udemy.com/course/cpp-deep-dive/#instructor-1
 - [Introduction to OOPS](https://github.com/afkniladri/Cplusplus-Programming/tree/main/8.Inroduction%20to%20OOPS)
 - [Operator Overloading](https://github.com/afkniladri/Cplusplus-Programming/tree/main/9.Operator%20Overloading)
 - [Inheritance](https://github.com/afkniladri/Cplusplus-Programming/tree/main/9.Operator%20Overloading)
-- [Base Class Pointer Diverted Class Object](#dsdt-ssdt)
+- [Base Class Pointer Diverted Class Object](https://github.com/afkniladri/Cplusplus-Programming/tree/main/11.Base%20Class%20Pointer%20Derived%20Class%20Object)
 - [Polymorphism](#credits)
 - [Friend and Static Members/Inner Classes](#configuration)
 - [Constants, Preprocessor Directives and Namespaces](#current-status)
