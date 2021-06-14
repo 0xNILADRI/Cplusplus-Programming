@@ -32,7 +32,7 @@ Created by [Abdul Bari](https://www.udemy.com/course/cpp-deep-dive/#instructor-1
 - [Inheritance](https://github.com/afkniladri/Cplusplus-Programming/tree/main/9.Operator%20Overloading)
 - [Base Class Pointer Diverted Class Object](https://github.com/afkniladri/Cplusplus-Programming/tree/main/11.Base%20Class%20Pointer%20Derived%20Class%20Object)
 - [Polymorphism](https://github.com/afkniladri/Cplusplus-Programming/tree/main/12.Polymorphism)
-- [Friend and Static Members/Inner Classes](#configuration)
+- [Friend and Static Members/Inner Classes](https://github.com/afkniladri/Cplusplus-Programming/tree/main/13.Friend%20and%20Static%20Members%20%7C%7C%20Inner%20Classes)
 - [Constants, Preprocessor Directives and Namespaces](#current-status)
 - [Destructor and Virtual Destructors](#dsdt-ssdt)
 - [I/O Streams](#credits)
