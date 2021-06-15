@@ -37,7 +37,7 @@ Created by [Abdul Bari](https://www.udemy.com/course/cpp-deep-dive/#instructor-1
 - [Template Functions and Classes](https://github.com/afkniladri/Cplusplus-Programming/tree/main/15.Template%20Functions%20and%20Classes)
 - [Constants, Preprocessor Directives and Namespaces](https://github.com/afkniladri/Cplusplus-Programming/tree/main/16.Constants%2C%20Preprocessor%20Directives%20and%20Namespaces)
 - [Destructor and Virtual Destructors](https://github.com/afkniladri/Cplusplus-Programming/tree/main/17.Destructor%20and%20Virtual%20Destructors)
-- [I/O Streams](#credits)
+- [I/O Streams](https://github.com/afkniladri/Cplusplus-Programming/tree/main/18.IO%20Streams)
 - [STL](#credits)
 - [C++ 11](#credits)
 - [Student Project Banking System](#credits)
