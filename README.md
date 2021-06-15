@@ -40,7 +40,7 @@ Created by [Abdul Bari](https://www.udemy.com/course/cpp-deep-dive/#instructor-1
 - [I/O Streams](https://github.com/afkniladri/Cplusplus-Programming/tree/main/18.IO%20Streams)
 - [STL](https://github.com/afkniladri/Cplusplus-Programming/tree/main/19.STL)
 - [C++ 11](https://github.com/afkniladri/Cplusplus-Programming/tree/main/20.C%2B%2B%2011)
-- [Student Project Banking System](#credits)
+- [Student Project Banking System](https://github.com/afkniladri/Cplusplus-Programming/tree/main/21.Student%20Project%20Banking%20System)
 - [Miscellaneous 1](#credits)
 - [Miscellaneous 2](#credits)
 
